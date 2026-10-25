@@ -1,4 +1,6 @@
-
+/*
+Mmmh... cosa stamperà questo programma?
+*/
 #include <iostream>
 using namespace std;
 
